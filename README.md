@@ -11,11 +11,14 @@ Space Explorer is a Flutter application designed to provide an interactive and e
     *   Key statistics: Distance from Sun, Orbital Period, Radius, Mass, Gravity, and Surface Area.
 *   **Immersive UI:** A visually appealing interface with high-quality planet imagery and custom widgets.
 
+
+
+
 ## 📱 Screenshots
 
-| Login Screen | Home Screen | Planet Details |
+| Intro Screen | Home Screen | Planet Details |
 | :---: | :---: | :---: |
-| *[Login Screenshot]* | *[Home Screenshot]* | *[Details Screenshot]* |
+| <img width="1080" height="2400" alt="ScreenShot2" src="https://github.com/user-attachments/assets/5dad262a-ff95-4ca7-8b35-7ef2a24df5b7" /> | <img width="1080" height="2400" alt="ScreenShot3" src="https://github.com/user-attachments/assets/dc600e6b-1daa-4891-8f11-3a7eef96e802" /> | <img width="1080" height="2400" alt="ScreenShot1" src="https://github.com/user-attachments/assets/b38fc34b-7ce0-4b4a-8459-ff78668d1062" />|
 
 ## 🛠️ Project Structure
 
