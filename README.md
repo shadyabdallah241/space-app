@@ -1,3 +1,6 @@
+
+
+
 # Space Explorer 🚀
 
 Space Explorer is a Flutter application designed to provide an interactive and educational experience exploring our solar system. Users can learn about different planets, their characteristics, and fascinating facts.
@@ -19,6 +22,9 @@ Space Explorer is a Flutter application designed to provide an interactive and e
 | Intro Screen | Home Screen | Planet Details |
 | :---: | :---: | :---: |
 | <img width="1080" height="2400" alt="ScreenShot2" src="https://github.com/user-attachments/assets/5dad262a-ff95-4ca7-8b35-7ef2a24df5b7" /> | <img width="1080" height="2400" alt="ScreenShot3" src="https://github.com/user-attachments/assets/dc600e6b-1daa-4891-8f11-3a7eef96e802" /> | <img width="1080" height="2400" alt="ScreenShot1" src="https://github.com/user-attachments/assets/b38fc34b-7ce0-4b4a-8459-ff78668d1062" />|
+
+## 📱 Video
+https://github.com/user-attachments/assets/8e6112c3-61c2-43df-b12c-a3ee1a328e3a
 
 ## 🛠️ Project Structure
 
